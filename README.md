@@ -1,3 +1,3 @@
 # tanasdemo
 
-__this is a demo for the github use in class__
+*this is a demo for the github use in class*
