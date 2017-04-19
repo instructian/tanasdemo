@@ -4,4 +4,6 @@
  big headline 
  medium headline
  
- small headline
+ small headline uses <h6> ... </h6>
+
+```small headline uses <h6> ... </h6>```
